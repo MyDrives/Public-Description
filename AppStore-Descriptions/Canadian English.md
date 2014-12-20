@@ -16,7 +16,7 @@ This is how it works: Just let us know which services or devices have your photo
 
 ▶ View all your photos with Motifs. We auto-magically analyse existing metadata to group your photos with simple-to-use and intuitive tags.
 
-WE SAY BYE-BYE TO 'PHOTO FRAGMENTATION'! KEEP YOUR PHOTOS ORGAniseD AND VIEW THEM ALL AT ONCE IN A BEAUTIFUL TIMELINE on LEIT!
+WE SAY BYE-BYE TO 'PHOTO FRAGMENTATION'! KEEP YOUR PHOTOS ORGANISED AND VIEW THEM ALL AT ONCE IN A BEAUTIFUL TIMELINE on LEIT!
 
 Simply connect to your Mac, PC, Facebook, Flickr, Dropbox and Instagram. We pull your photos (tagged ones too) into Leit!
 
