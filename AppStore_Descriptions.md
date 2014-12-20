@@ -52,6 +52,8 @@ please send us feedback from app's settings menu or email us (mydrives@mydriv.es
 
 ##### 4. Keywords
 Photo, Photo manager, Social photos, Computer photos, Cloud photos, Photo Organizer, leitmotif, Leit
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### Korean (0.2.1)
 ##### 1. Name
@@ -105,6 +107,8 @@ Leit와 사진 분산에 대한 걱정을 떨쳐버리세요! 그리고 당신�
 
 ##### 4. Keywords
 사진, 모든 사진, 클라우드 사진, 컴퓨터 사진, 사진 정리, 사진 정돈, 사진 관리, 라이트모티프, Leit
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### UK English (0.2.1)
 ##### 1. Name
@@ -157,6 +161,8 @@ please send us feedback from app's settings menu or email us (mydrives@mydriv.es
 
 ##### 4. Keywords
 Photo, Photo manager, Social network photos, Computer photos, Cloud photos, Photo Organizer
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### French (0.2.1)
 ##### 1. Name
@@ -209,6 +215,8 @@ please send us feedback from app's settings menu or email us (mydrives@mydriv.es
 
 ##### 4. Keywords
 photos, organiser photos, Leit
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### Japanese (0.2.1)
 ##### 1. Name
@@ -255,6 +263,8 @@ please send us feedback from app's settings menu or email us (mydrives@mydriv.es
 
 ##### 4. Keywords
 写真、フォト、写真管理、ソーシャルネットワークの写真、コンピュータの写真、クラウドの写真、フォトオーガナイザー、ライトモチーフ
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### Australian English (0.2.1)
 ##### 1. Name
@@ -307,6 +317,8 @@ please send us feedback from app's settings menu or email us (mydrives@mydriv.es
 
 ##### 4. Keywords
 Photo, Photo manager, Social network photos, Computer photos, Cloud photos, Photo Organizer
+
+
 ---------------------------------------------------------------------------------------------------------------------
 ### Canadian English (0.2.1)
 ##### 1. Name
