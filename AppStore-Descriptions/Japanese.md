@@ -15,8 +15,6 @@ Facebookで友達があなたの写真をタグ付けしましたか？あなた
 
 ▶ LeitのMotifsでグループ分けした写真を楽しんでください。
 
-▶ Leitはこれまで撮ってきたすべての写真をいつでも、どこでも整理された状態で見られるようになります。
-
 互換サービス:Facebook, Flickr, Instagram, Dropbox
 互換デバイス: Mac, iPhone
 
