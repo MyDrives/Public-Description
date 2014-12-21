@@ -22,7 +22,20 @@ Facebookで友達があなたの写真をタグ付けしましたか？あなた
 * こんにちは、私たちはいまBetaサービス中です。どんなフィードバックも歓迎です。mydrives@mydriv.esやウェブサイト(https://mydriv.es)にご連絡してください。
 
 ## 3. What's New in This Version
-Bug fixes and Performance Improvements
+- 以前の更新プログラム（0.2.1）
+画像を非表示機能
+複数のMotifの同時削除機能
+
+- 今回のアップデート（0.2.2）
+Google+、Google Drive、Picasaを追加することができます。
+MotifをPublishして共有することができます。
+
+- 次のバージョン予定
+iPad対応
+
+フィードバックをいただき、ありがとうございます！今後もフィードバックくださるときに電子メールをいただくか（mydrives@mydriv.es）またはアプリ内Send Feedback機能を活用していただければ幸いです。 :)
+
+Googleの翻訳を使用した点ご了承お願いいたします。
 
 ## 4. Keywords
 思い出,写真、フォト、写真管理、ソーシャルネットワークの写真、コンピュータの写真、クラウドの写真、フォトオーガナイザー、ライトモチーフ

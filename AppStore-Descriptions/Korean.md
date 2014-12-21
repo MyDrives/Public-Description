@@ -29,7 +29,18 @@ Leit와 사진 분산에 대한 걱정을 떨쳐버리세요! 그리고 당신�
 홈페이지: https://mydriv.es
 
 ## 3. What's New in This Version
-Bug fixes and Performance Improvements
+- 이전 업데이트 (0.2.1)
+사진 숨기기 기능
+여러 개의 Motif 동시 삭제 기능
+
+- 이번 업데이트 (0.2.2)
+Google+, Google Drive, Picasa를 추가할 수 있습니다.
+Motif를 Publish하여 공유할 수 있습니다.
+
+- 다음 버전 예정
+iPad 지원 (베타 테스트에 참가하고 싶으신 분은 연락주세요)
+
+피드백을 주셔서 고맙습니다!! 앞으로도 피드백 주실때 이메일을 주시거나 (mydrives@mydriv.es) 또는 앱 내 Send Feedback 기능을 활용해 주시면 고맙겠습니다. :)
 
 ## 4. Keywords
 사진,모든 사진,클라우드 사진,컴퓨터 사진,사진 정리,사진 정돈,사진 관리,라이트모티프,Leit
