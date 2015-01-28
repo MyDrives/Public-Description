@@ -1,4 +1,4 @@
-French (0.2.2)
+French (0.2.3)
 ==============
 
 ## 1. Name
@@ -29,18 +29,8 @@ Commencez votre calendrier maintenant avec Leit!
 Sites Web: https://mydriv.es
 
 ## 3. What's New in This Version
-- Depuis la version précédente (0.2.1)
-Vous pouvez masquer les photos que vous ne souhaitez pas voir avec le bouton Modifier.
-Vous pouvez supprimer des motifs avec le bouton Modifier.
-
-- Dans cette version (0.2.2)
-Vous pouvez voir des photos de Google+, Google Drive et Picasa.
-Vous pouvez publier Motif à vos amis.
-
-- Dans la prochaine version
-Soutien iPad
-
-Merci pour tous vos retours! Si vous avez des commentaires ou des questions plus, se il vous plaît envoyez-nous vos commentaires à partir des paramètres du menu de l'application ou par courriel (mydrives@mydriv.es)
+Support iPad
+Login with Facebook
 
 ## 4. Keywords
 photos,toutes vos photos,fragmentation de photos,les réseaux sociaux

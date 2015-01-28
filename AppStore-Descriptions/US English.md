@@ -1,4 +1,4 @@
-US English (0.2.2)
+US English (0.2.3)
 ==================
 
 ## 1. Name
@@ -29,18 +29,8 @@ Start your timeline now with Leit!
 Websites: https://mydriv.es
 
 ## 3. What's New in This Version
-- From previous version (0.2.1)
-You can hide photos you don't want to see with Edit button.
-You can delete Motifs with Edit button.
-
-- In this version (0.2.2)
-You can see photos from Google+, Google Drive and Picasa.
-You can publish Motif to your friends.
-
-- In next version
-Support iPad (Please contact us if you want this with Beta test)
-
-Thank you for all your feedbacks! If you have more comments or questions, please send us feedback from app's settings menu or email us (mydrives@mydriv.es)
+Support iPad
+Login with Facebook
 
 ## 4. Keywords
 Photo,Photo manager,Social photos,Computer photos,Cloud photos,Photo Organizer,leitmotif,Leit
