@@ -1,4 +1,4 @@
-Japanese (0.2.3)
+Japanese (0.2.4)
 ================
 ## 1. Name
 あちこち散在する写真をまとめて管理 - Leit（ライト）
@@ -22,8 +22,7 @@ Facebookで友達があなたの写真をタグ付けしましたか？あなた
 * こんにちは、私たちはいまBetaサービス中です。どんなフィードバックも歓迎です。mydrives@mydriv.esやウェブサイト(https://mydriv.es)にご連絡してください。
 
 ## 3. What's New in This Version
-Support iPad
-Login with Facebook
+Manage Storage
 
 ## 4. Keywords
 思い出,写真、フォト、写真管理、ソーシャルネットワークの写真、コンピュータの写真、クラウドの写真、フォトオーガナイザー、ライトモチーフ

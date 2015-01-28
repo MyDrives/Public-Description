@@ -1,4 +1,4 @@
-UK English (0.2.3)
+UK English (0.2.4)
 =================
 ## 1. Name
 View all your scattered photos - Leit
@@ -28,8 +28,7 @@ Start your timeline now with Leit!
 Websites: https://mydriv.es
 
 ## 3. What's New in This Version
-Support iPad
-Login with Facebook
+Manage Storage
 
 ## 4. Keywords
 Photo,Photo manager,Social network photos,Computer photos,Cloud photos,Photo Organiser

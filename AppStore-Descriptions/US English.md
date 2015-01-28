@@ -1,4 +1,4 @@
-US English (0.2.3)
+US English (0.2.4)
 ==================
 
 ## 1. Name
@@ -29,8 +29,7 @@ Start your timeline now with Leit!
 Websites: https://mydriv.es
 
 ## 3. What's New in This Version
-Support iPad
-Login with Facebook
+Manage Storage
 
 ## 4. Keywords
 Photo,Photo manager,Social photos,Computer photos,Cloud photos,Photo Organizer,leitmotif,Leit

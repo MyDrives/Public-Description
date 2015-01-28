@@ -1,4 +1,4 @@
-Korean (0.2.3)
+Korean (0.2.4)
 ==============
 ## 1. Name
 흩어진 모든 사진을 한 곳에서 관리- Leit (라이트)
@@ -29,8 +29,7 @@ Leit와 사진 분산에 대한 걱정을 떨쳐버리세요! 그리고 당신�
 홈페이지: https://mydriv.es
 
 ## 3. What's New in This Version
-Support iPad
-Login with Facebook
+Manage Storage
 
 ## 4. Keywords
 사진,모든 사진,클라우드 사진,컴퓨터 사진,사진 정리,사진 정돈,사진 관리,라이트모티프,Leit
