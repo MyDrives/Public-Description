@@ -1,4 +1,4 @@
-French (0.2.4)
+French (0.2.5)
 ==============
 
 ## 1. Name
@@ -29,7 +29,7 @@ Commencez votre calendrier maintenant avec Leit!
 Sites Web: https://mydriv.es
 
 ## 3. What's New in This Version
-Manage Storage
+Explore (You can search photos)
 
 ## 4. Keywords
 photos,toutes vos photos,fragmentation de photos,les réseaux sociaux
