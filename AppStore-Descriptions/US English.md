@@ -2,31 +2,27 @@ US English (0.2.5)
 ==================
 
 ## 1. Name
-View all your scattered photos - Leit
+See all your scattered photos in one place - Leit
 
 ## 2. Description
-View and organize all your photos in one place with Leit!
+Leit lets you see your photos from your Social Networks and Clouds in one seamless place.
 
-People have more than 10,000 photos... How many of them do you view? These days, all of us suffer from a serious problem called “photo fragmentation.” We simply don’t have an easy way to view and organize all the photos we’ve taken and saved in various storage, cloud services, and social networks.
+Many of us have photos scatterd all over the place. From Facebook, Flickr, Dropbox, Instagram, Dropbox, etc. and etc. Wouldn't it be nice to have all those photos organized and viewable in one place? With Leit, you can do just that!
 
-Leit is a cure.
+Its so easy to use. Just let Leit know where your photos are and it will magically organize all of the photos into a single beautiful timeline for you to see. Best of all, it doesn't copy or move any of your photos to your device so no need to worry about space.
 
-This is how it works: Just let us know which services or devices have your photos. Leit will auto-magically analyze metadata from your favorite devices and services (like your Mac, Facebook, Flickr, Dropbox, and Instagram) and organize them by timeline and location into a single beautiful and easy to use Leit interface!
+▶ View all your photos in a beautiful Timeline. We take photos from your various storage services and organize them in a single awesome and elegant timeline.
 
-▶ View all your photos in a beautiful Timeline. We auto-magically pull photos from your various storage services and organize them in a single awesome and elegant timeline.
+▶ View all your photos with Motifs. Organize and group your photos with easy to use tags.
 
-▶ View all your photos with Motifs. We auto-magically analyze existing metadata to group your photos with simple-to-use and intuitive tags.
-
-WE SAY BYE-BYE TO 'PHOTO FRAGMENTATION'!  KEEP YOUR PHOTOS ORGANIZED AND VIEW THEM ALL AT ONCE IN A BEAUTIFUL TIMELINE on LEIT! 
-
-Simply connect to your Mac, PC, Facebook, Flickr,  Dropbox and Instagram. We pull your photos (tagged ones too) into Leit!
+Simply show Leit where your Mac, PC, Facebook, Flickr, Dropbox, Instagram photos are and the app does all the work!
 
 * We’d love to know what you think. Drop us a note with questions or other feedback to: mydrives@mydriv.es
-* Connecting your Mac to Leit requires a lightweight Mac program. Get it at http://get.mydriv.es  We don't store any passwords.
+* Syncing your Mac to Leit requires a lightweight Mac program. Get it at http://get.mydriv.es  We don't store any passwords.
 
 Start your timeline now with Leit!
 
-Websites: https://mydriv.es
+Website: https://mydriv.es
 
 ## 3. What's New in This Version
 Explore (You can search photos)
