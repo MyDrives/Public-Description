@@ -1,8 +1,8 @@
-US English (0.2.5)
+US English (0.2.7)
 ==================
 
 ## 1. Name
-See all your scattered photos in one place - Leit
+Leit: A scattered carousel album aggregator
 
 ## 2. Description
 Leit lets you see your photos from your Social Networks and Clouds in one seamless place.
@@ -25,8 +25,8 @@ Start your timeline now with Leit!
 Website: https://mydriv.es
 
 ## 3. What's New in This Version
-Explore (You can search photos)
+New interface for Motifs
 
 ## 4. Keywords
-Photo,Photo manager,Social photos,Computer photos,Cloud photos,Photo Organizer,leitmotif,Leit
+pic,lyve,picturelife,picture,flickr,cloud,group,aggregator,photo,album,pictag,diary,organizer,mypics
 
