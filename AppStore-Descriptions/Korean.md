@@ -1,7 +1,7 @@
-Korean (0.2.7)
+Korean (0.3.3)
 ==============
 ## 1. Name
-흩어진 모든 사진을 한 곳에서 관리- Leit (라이트)
+Leit (라이트) 클라우드 사진 통합 관리 및 공유 (비밀번호 잠금 지원)
 
 ## 2. Description
 흩어진 모든 사진을 한 곳에서 관리하세요
@@ -29,7 +29,7 @@ Leit와 사진 분산에 대한 걱정을 떨쳐버리세요! 그리고 당신�
 홈페이지: https://mydriv.es
 
 ## 3. What's New in This Version
-New interface for Motifs
+Bug fixes
 
 ## 4. Keywords
-pic,lyve,picturelife,picture,flickr,cloud,group,aggregator,photo,album,pictag,diary,organizer,mypics
+플리커,피카사,드롭박스,구글드라이브,원드라이브,엔드라이브,다음클라우드,유클라우드,티클라우드,토스,toss,마이드라이브,마이드라이브스,사진관리,사진공유,사진잠금,네이버,다음,네이트
